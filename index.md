@@ -2,7 +2,7 @@
 
 ---
 
-### Categoria 1
+### Categoría 1
 
 [Proyecto 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -13,7 +13,7 @@
 
 ---
 
-### Categoria 2
+### Categoría 2
 
 - [Proyecto 1](http://example.com/)
 - [Proyecto 2](http://example.com/)
