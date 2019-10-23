@@ -1,15 +1,17 @@
-## Portfolio
+## Portafolio
 
 ---
 
-### Categoría 1
+### Proyectos de la categoría
 
 [Proyecto 1](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Descripción: esto es la **descripción**.
 
 ---
 [Proyecto 2](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Descripción: esto es la **descripción**.
 
 ---
 
