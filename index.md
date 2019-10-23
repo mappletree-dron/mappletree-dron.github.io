@@ -4,7 +4,7 @@
 
 ### Proyectos de la categoría
 
-[Proyecto 1](/sample_page)
+[Proyecto 1](/proyecto1)
 
 Descripción: esto es la **descripción**.
 
